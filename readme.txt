@@ -6,3 +6,4 @@ Creating a new branch if quick and simple.
 add merge
 test rebase
 test rebase 2
+test rebase 3
